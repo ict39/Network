@@ -1,6 +1,6 @@
 # Network
 
-[**Routing Table**](https://github.com/ict39/Network/blob/main/Routing_table.md)  
+[**路由設定**](https://github.com/ict39/Network/blob/main/Routing_table.md)  
 
 [**固定IPv4設定**](https://github.com/ict39/Network/blob/main/Static_IP.md)  
 
