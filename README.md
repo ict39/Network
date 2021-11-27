@@ -4,7 +4,7 @@
 
 [**固定 IPv4 設定**](https://github.com/ict39/Network/blob/main/Static_IP.md)  
 
-[**關閉 v6**](https://github.com/ict39/Network/blob/main/DIsable_IPv6.md)
+[**關閉 IPv6**](https://github.com/ict39/Network/blob/main/DIsable_IPv6.md)
 
 [**切 subnetmask**](https://github.com/ict39/Network/blob/main/subnetmask.md)
 
